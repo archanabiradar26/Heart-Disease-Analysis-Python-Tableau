@@ -1,53 +1,42 @@
-# Heart-Disease-Analysis-Python-Tableau
-Heart Disease Data Analysis using Python and Tableau
-# Heart Disease Data Analysis
+# ❤️ Heart Disease Analysis using Python & Tableau
 
-## Project Overview
+## 📌 Project Overview
+This project analyzes heart disease data using Python for data cleaning, exploratory data analysis (EDA), and visualization. An interactive Tableau dashboard was developed to present key insights and trends.
 
-This project analyzes heart disease patient data using Python to identify trends and risk factors associated with heart disease.
+## 🎯 Objectives
+- Analyze factors associated with heart disease
+- Perform data cleaning and EDA
+- Create meaningful visualizations
+- Build an interactive Tableau dashboard
 
-## Tools Used
-
+## 🛠️ Tools & Technologies
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
-- Tableau
+- Tableau Public
+- Microsoft Excel
 
-## Dataset
+## 📂 Project Files
+- Heart_Disease_Analysis.ipynb
+- data.xlsx
+- Tableau Dashboard
+- README.md
 
-The dataset contains patient information including:
+## 📊 Key Insights
+- Heart disease occurrence by age
+- Gender-wise distribution
+- Chest pain type analysis
+- Cholesterol level analysis
+- Maximum heart rate trends
 
-- Age
-- Sex
-- Chest Pain Type
-- Blood Pressure
-- Cholesterol
-- Maximum Heart Rate
-- Exercise Induced Angina
-- Heart Disease
+## 📈 Tableau Dashboard
+https://public.tableau.com/app/profile/archana.biradar/viz/HeartDiseaseTableauDashboard/Dashboard1
 
-## Analysis Performed
-
+## 💼 Skills Demonstrated
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Missing Value Analysis
-- Correlation Analysis
 - Data Visualization
-
-## Visualizations
-
-- Age Distribution
-- Heart Disease Count
-- Correlation Heatmap
-- Cholesterol Distribution
-
-## Conclusion
-
-The project identifies important factors associated with heart disease and demonstrates data analysis skills using Python.
-
-## Author
-
-**Archana Biradar**
+- Dashboard Design
+- Business Insights
